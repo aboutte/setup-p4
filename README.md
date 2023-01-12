@@ -454,10 +454,10 @@ Here are the steps for contributing:
 
 #### .actrc
 
-The `.actrc` can be used to provide [default configuration](https://github.com/nektos/act#configuration) to `act`.  Example `.actrc` file to have `act` use the `act.secrets` file
+The `.actrc` can be used to provide [default configuration](https://github.com/nektos/act#configuration) to `act`.  Example `.actrc` file to have `act` use the `my.secrets` file
 
 ```
---secret-file act.secrets
+--secret-file my.secrets
 ```
 
 
